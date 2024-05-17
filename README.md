@@ -8,6 +8,8 @@
 
 Este é um projeto simples desenvolvido com o objetivo de aprender e aplicar os conceitos de desenvolvimento de APIs RESTful utilizando a linguagem Java. O projeto é uma implementação simplificada de uma Classe Pessoa.java e suas propriedades. 
 
+Este projeto foi desenvolvido durante o curso **"Java COMPLETO Programação Orientada a Objetos + Projetos"** ministrado pelo professor Nelio Alves na plataforma UDEMY. O projeto específico faz parte da Seção 22 do curso: **"Java EE - Mapeamento objeto-relacional com JPA / Hibernate"**.
+
 ## Tecnologias Utilizadas
 
 - **Java**: Linguagem de programação principal do projeto.
