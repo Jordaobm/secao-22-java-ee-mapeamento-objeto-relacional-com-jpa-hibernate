@@ -1,7 +1,7 @@
 # Projeto de Estudo: Mapeamento objeto-relacional com JPA/Hibernate
 
 <div align="center">
-  <img alt="Java" title="Java" src="https://github.com/Jordaobm/secao-22-java-ee-mapeamento-objeto-relacional-com-jpa-hibernate/main/doc/java.png" width="300px" />
+  <img alt="Java" title="Java" src="https://github.com/Jordaobm/secao-22-java-ee-mapeamento-objeto-relacional-com-jpa-hibernate/blob/main/doc/java.png" width="300px" />
 </div>
 
 ## Descrição
